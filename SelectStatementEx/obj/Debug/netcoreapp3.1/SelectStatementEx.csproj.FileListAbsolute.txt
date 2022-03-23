@@ -1,0 +1,14 @@
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.exe
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.deps.json
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.runtimeconfig.json
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.runtimeconfig.dev.json
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.dll
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\bin\Debug\netcoreapp3.1\SelectStatementEx.pdb
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.csproj.AssemblyReference.cache
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.AssemblyInfoInputs.cache
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.AssemblyInfo.cs
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.dll
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.pdb
+C:\Users\Andrea\source\repos\SelectStatementEx\SelectStatementEx\obj\Debug\netcoreapp3.1\SelectStatementEx.genruntimeconfig.cache
